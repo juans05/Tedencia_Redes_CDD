@@ -1,6 +1,6 @@
 # 📊 Análisis de Tendencias en Redes Sociales
 
-By: Rosario Quispe, Carlos Ramirez and Juan Saavedra
+By: Juan Saavedra, Carlos Ramirez and Rosario Quispe
 
 Este proyecto tiene como objetivo preprocesar, analizar y visualizar datos de redes sociales (Facebook, Instagram y Twitter) con el fin de identificar **tendencias de interacción y sentimientos a lo largo del tiempo**. Se trabaja con datos de publicaciones y se utilizan técnicas de procesamiento de lenguaje natural (NLP), análisis de sentimientos y visualización de datos.
 
